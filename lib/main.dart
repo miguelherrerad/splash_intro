@@ -6,14 +6,14 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Material App',
+      title: 'Insoft',
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Material App Bar'),
+          title: Text('Insoft Loja'),
         ),
         body: Center(
           child: Container(
-            child: Text('Hello World'),
+            child: Text('Hola Mundo esto es Flutter'),
           ),
         ),
       ),
